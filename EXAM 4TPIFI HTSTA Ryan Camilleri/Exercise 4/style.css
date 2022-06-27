@@ -1,0 +1,26 @@
+header {
+    background-color: lightblue;
+    text-align: center;
+}
+
+h1 {
+    color: red;
+    background-color: gold;
+}
+
+header p {
+font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    text-decoration: none;
+    padding: 25, 15;
+    background-color: rgb(51, 51, 51);
+}
+
+footer {
+    background-color: black;
+    color: white;
+    width: 100%;
+    text-align: center;
+}
